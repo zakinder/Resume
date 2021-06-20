@@ -6,7 +6,7 @@
 
       Beaconhouse School System, Margalla Campus, Pakistan
       
-      Rawalpindi College of Commerce & Science
+      Rawalpindi College of Commerce & Science, Pakistan
       
       A.S General Engineering
       Montgomery College, Germantown, MD
