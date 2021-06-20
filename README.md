@@ -1,9 +1,5 @@
 # Education
 
-
-
-
-
       Beaconhouse School System, Margalla Campus 
       Islamabad, Pakistan
       
@@ -19,6 +15,11 @@
       M.S Telecommunication, 2012 Incomplete
       University Of Maryland, College Park, MD
 
+
+      Awarded the 2007-2008 Arnold A. Korab Endowed Scholarship
+      Awarded the 2008-2009, 2009-2010 The Dollenberg Family Scholarship
+      Awarded the 2009-2010 The David Scholarship
+      Academy of Academic Excellence Award 2009-2010
 
 # Work Experience
 
