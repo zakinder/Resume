@@ -1,2 +1,6 @@
 # Resume
-Facts
+
+High School
+
+Beaconhouse Margalla Campus
+
