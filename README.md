@@ -21,6 +21,20 @@
       Awarded the 2009-2010 The David Scholarship
       Academy of Academic Excellence Award 2009-2010
 
+# Relevant Courses
+
+      Satellite Communication Systems
+      Multimedia Communications over Networks ,Short-range Wireless Systems
+      Network Security DSP
+      Microprocessors
+      Digital Computer Design
+      Capstone Design Project: Modern Digital System Design
+      Hardware FPGA Design Using Verilog ,Consumer Electronics
+      Computer Organization Language
+      Digital Logic Design
+      Project Management Telecommunications Marketing Management
+
+
 # Work Experience
 
       Specialist Electrical Engineering 2019-2020
