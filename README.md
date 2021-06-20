@@ -16,36 +16,38 @@
       B.S Electrical Engineering, August 2010
       University Of Maryland, College Park, MD
       
-      M.S Telecommunication, Incomplete
+      M.S Telecommunication, 2012 Incomplete
       University Of Maryland, College Park, MD
 
 
 # Work Experience
 
-      Specialist Electrical Engineering
+      Specialist Electrical Engineering 2019-2020
       Harris (L3-Harris)
       Columbia,MD
-      
-      Senior Electrical Engineer
+
+      Senior Electrical Engineer 2017-2019
       Raytheon Missile Systems (Raytheon Missiles & Defense)
       Tucson,AZ
-      
-      Senior Electrical Engineer
+
+      Senior Electrical Engineer 2017-2017
       Fast Fit Technologies
-      
-      Senior Electrical Engineer
+
+      Senior Electrical Engineer 2016-2017
       Lynntech
       College Station, TX
-      
-      Engineer/Technologist Firmware
+
+      Engineer/Technologist Firmware 2012-2016
       General Electric Transportation (Wabtec)
       Erie, PA
-      
+
+      Electrical Engineer PartTime 2011-2011
       Howard Hughes Medical Institute
       Ashburn, VA
-      
+
+      Electrical Engineer PartTime 2009-2009
       Axis Engineering Technologies
-      
-      
+
+      Electrical Engineer Co-op 2008-2008
       Chesapeake Sciences Corporation (L3)
       Millersville, MD
