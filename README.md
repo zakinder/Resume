@@ -1,4 +1,7 @@
 ![BeaconHouse](https://github.com/zakinder/Resume/blob/main/BeaconHouseSchoolSystem.PNG "BeaconHouse")
+
+U Sakinder Ali is not U.S.A
+
 # Education
 
       Beaconhouse School System, Margalla Campus 
