@@ -1,6 +1,6 @@
 ![BeaconHouse](https://github.com/zakinder/Resume/blob/main/BeaconHouseSchoolSystem.PNG "BeaconHouse")
 
-U Sakinder Ali is not U.S.A
+U Sakinder Ali is not U.S.A but beacon light for future generation.
 
 # Education
 
