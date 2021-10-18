@@ -41,22 +41,29 @@
 
 # Work Experience
 
+
+      Principal Engineering Digital 03,23,2020-Present
+      Northrop Grumman Mission Systems
+      Linthicum,MD,21090
+      
+      Unemployment 02,2020 03,2020
+
       Specialist Electrical Engineering 2019-2020
-      Harris (L3-Harris)
-      Columbia,MD
+      L3HARRIS Communication Systems
+      Columbia,MD,21046
 
-      Senior Electrical Engineer 2017-2019
+      Senior Electrical Engineer 11,27,2017-05,09,2019
       Raytheon Missile Systems (Raytheon Missiles & Defense)
-      Tucson,AZ
+      Tucson,AZ,85756
 
-      Senior Electrical Engineer 2017-2017
+      Senior Electrical Engineer 07,17,2017. 10,23,2017
       Fast Fit Technologies
 
-      Senior Electrical Engineer 2016-2017
+      Senior Electrical Engineer 09,2016. 07,2017
       Lynntech
       College Station, TX
 
-      Engineer/Technologist Firmware 2012-2016
+      Engineer/Technologist Firmware 02,2012-09,2016
       General Electric Transportation (Wabtec)
       Erie, PA
 
@@ -64,9 +71,9 @@
       Howard Hughes Medical Institute
       Ashburn, VA
 
-      Electrical Engineer PartTime 2009-2009
+      Electrical Engineer PartTime 01,2009-12,2009
       Axis Engineering Technologies
 
-      Electrical Engineer Co-op 2008-2008
+      Electrical Engineer Co-op 01,2008 08,2008
       Chesapeake Sciences Corporation (L3)
       Millersville, MD
