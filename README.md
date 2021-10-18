@@ -10,13 +10,13 @@
       Rawalpindi College of Commerce & Science
       Rawalpindi, Pakistan
       
-      A.S General Engineering
+      A.S General Engineering [08/2004 05/2007]
       Montgomery College, Germantown, MD
       
-      B.S Electrical Engineering, August 2010
+      B.S Electrical Engineering, [08/2007 07/2010]
       University Of Maryland, College Park, MD
       
-      M.S Telecommunication, 2012 Incomplete
+      M.S Telecommunication, [2012 Incomplete]
       University Of Maryland, College Park, MD
 
 
