@@ -45,46 +45,38 @@
       Principal Engineering Digital [03/23/2020 - 2021]
       Northrop Grumman Mission Systems
       Linthicum,MD,21090
-      
-      Unemployment [02/2020 03/2020]
 
       Specialist Electrical Engineering [05/13/2019 - 02/20/2020]
       L3HARRIS Communication Systems
       Columbia,MD,21046
-      Reason for Leaving: Time Sheet Fraud Termination
       
       Senior Electrical Engineer [11/27/2017 - 05/09/2019]
       Raytheon Missile Systems
       Tucson,AZ,85756
-      Reason for Leaving: Nothing to do in Tucson and decided to relocate to a back Maryland.
       
       Senior Electrical Engineer [07/17/2017 - 10/23/2017]
       Contractor: Fast Fit Technologies
       3533 Fry Road.
       Jefferson,MD,21755
-      Reason for Leaving: Accepted to start at work Raytheon after clearance was granted.
       
       Senior Electrical Engineer [09/2016 - 07/2017]
       Lynntech
       College Station TX 77845
-      Reason for Leaving: Found a better opportunity
       
       Engineer/Technologist Firmware [02/2012 - 09/2016]
       General Electric Transportation
       Erie PA 16531
-      Reason for Leaving: My values no longer align with the company mission
       
       Electrical Engineer PartTime [2011 - 2011]
       Howard Hughes Medical Institute
       Ashburn, VA
-      Reason for Leaving: PartTime
       
       Electrical Engineer PartTime [01/2009 - 12/2009]
       Axis Engineering Technologies
-      Reason for Leaving: PartTime
+
       
       Electrical Engineer Co-op [01/2008 - 08/2008]
       Chesapeake Sciences Corporation (L3)
       Millersville, MD
-      Reason for Leaving: Co-op
+
       
