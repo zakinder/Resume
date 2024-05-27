@@ -82,3 +82,78 @@ Days Of Birth : 6/1/1982
       
 MILITARY SERVICES 55TH SUSTAINMENT BRIGADE (Fort Belvoir, VA) 
 U S. ARMY RESERVE (Automated Logistical Specialist) (2003 – 2011)
+
+
+##Again
+
+-------------------------------------------------------------------------
+                                              [8/20/2021-1/2/2024]
+Northrop Grumman Mission Systems              [Linthicum,MD,21090]
+
+Administrative Leave                          [6/21/2021-8/19/2021]
+Northrop Grumman Mission Systems              [Linthicum,MD,21090]
+
+Principal Engineering Digital                 [3/23/2020-6/21/2021]
+Northrop Grumman Mission Systems              [Linthicum,MD,21090]
+
+Unemployment                                  [2/2020-3/2020]
+Maryland’s 1st Beacon                         [Unemployment]
+
+Specialist Electrical Engineering             [5/13/2019-2/20/2020]
+WAS: Harris Communications                    [Columbia,MD,21046]
+IS : L3HARRIS Communication Systems           [Columbia,MD,21046]
+
+Senior Electrical Engineer                    [11/27/2017-5/9/2019]
+WAS: Raytheon Missile Systems                 [Tucson,AZ,85756]
+IS : Raytheon Missiles & Defense              [Tucson,AZ,85756]
+
+Senior Electrical Engineer                    [9/2016-7/2017]
+Lynntech                                      [College Station,TX,77845]
+
+Engineer/Technologist Firmware                [2/2012-9/2016]
+WAS: General Electric Transportation          [Erie,PA,16531]
+IS : WabTecCorp                               [Erie,PA,16531]
+
+Electrical Engineer Co-op                     [1/2008-8/2008]
+WAS: Chesapeake Sciences Corporation          [Millersville,MD,21108]
+IS : L3 Chesapeake Sciences Corporation       [Millersville,MD,21108]
+
+92A Automated Logistical Specialist           [9/2003-9/2011]
+WAS: 55th Theater Material Management Center  [Fort Belvoir,VA]
+IS : 55th Sustainment Brigade                 [Fort Belvoir,VA]
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+Born                                          [6/1/1982]
+Beaconhouse School System                     [1993-2000]
+Rawalpindi/Islamabad                          [Pakistan]
+Rawalpindi College of Commerce & Science      [2001-2003]
+Rawalpindi                                    [Pakistan]
+Entered USA                                   [5/25/2003]
+-------------------------------------------------------------------------
+Celebrated 21st BirthDay                      [20.21]
+-------------------------------------------------------------------------
+A.S General Engineering                       [8/2004-5/2007]
+Montgomery College                            [Germantown,MD] 
+B.S Electrical Engineering,                   [8/2007-7/2010]
+University Of Maryland College Park           [College Park,MD]
+M.S Telecommunication,Incomplete              [1/2011-5/2012]
+University Of Maryland College Park           [College Park,MD]
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Relevant Courses
+-------------------------------------------------------------------------
+Satellite Communication Systems
+Multimedia Communications over Networks ,Short-range Wireless Systems
+Network Security DSP
+Microprocessors
+Digital Computer Design
+Capstone Design Project: Modern Digital System Design
+Hardware FPGA Design Using Verilog ,Consumer Electronics
+Computer Organization Language
+Digital Logic Design
+Project Management Telecommunications Marketing Management
+-------------------------------------------------------------------------
+
