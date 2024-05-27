@@ -1,6 +1,6 @@
 ![BeaconHouse](https://github.com/zakinder/Resume/blob/main/BeaconHouseSchoolSystem.PNG "BeaconHouse")
 
-
+Date Of Birth : 6/1/1982
 
 # Education
 
