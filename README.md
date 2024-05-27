@@ -1,6 +1,6 @@
 ![BeaconHouse](https://github.com/zakinder/Resume/blob/main/BeaconHouseSchoolSystem.PNG "BeaconHouse")
 
-Date Of Birth : 6/1/1982
+Days Of Birth : 6/1/1982
 
 # Education
 
@@ -80,3 +80,5 @@ Date Of Birth : 6/1/1982
       Millersville, MD
 
       
+MILITARY SERVICES 55TH SUSTAINMENT BRIGADE (Fort Belvoir, VA) 
+U S. ARMY RESERVE (Automated Logistical Specialist) (2003 – 2011)
