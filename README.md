@@ -156,3 +156,26 @@ U S. ARMY RESERVE (Automated Logistical Specialist) (2003 – 2011)
     Digital Logic Design
     Project Management Telecommunications Marketing Management
     -------------------------------------------------------------------------
+
+    Bio-Engineering 6/1/1010 6/1/101 UVM Universal Verification Methodology
+    -------------------------------------------------------------------------
+    Intelligence is not to, instead what have got so far rather gathering results from bio-engineering experiments.
+
+    Intelligence is not an investigation but collection of doubtless facts which either converge to a focus point or diverge away as diffraction from a point.
+
+    Picture of million words where imagination is faster than speed of light.
+
+    Looking outside a circle is just looking into circle.
+    -------------------------------------------------------------------------
+    Logic Designer of 101 Knowledge Maker: If Apple is Logic Than Space Transient
+    Bio-Engineering 6/1/1010 6/1/101 UVM Universal Verification Methodology 
+    -------------------------------------------------------------------------
+    Arctic Code Vault Contributor
+    @zakinder contributed code to several repositories in the 2020 GitHub Archive Program.
+    
+    repository : zakinder/SDAccel
+    
+    The Arctic Code Vault
+    On 02/02/2020 GitHub captured a snapshot of every active public repository. Those millions of repos were then archived to hardened film designed to last for 1,000 years, and stored in the GitHub Arctic Code Vault in a decommissioned coal mine deep beneath an Arctic mountain in Svalbard, Norway.
+    
+    https://archiveprogram.github.com/
