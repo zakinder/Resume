@@ -97,7 +97,7 @@ U S. ARMY RESERVE (Automated Logistical Specialist) (2003 – 2011)
     Northrop Grumman Mission Systems              [Linthicum,MD,21090]
 
     Unemployment                                  [2/2020-3/2020]
-    Maryland’s 1st Beacon                         [Unemployment]
+    Maryland’s 1st Beacon                         [No Forgiveness For No Unemployment]
 
     Specialist Electrical Engineering             [5/13/2019-2/20/2020]
     WAS: Harris Communications                    [Columbia,MD,21046]
